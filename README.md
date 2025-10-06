@@ -1,13 +1,5 @@
 ## Oi eu sou o Mateo Till!
 
-### 📊 GitHub Stats
-
-<div style="display: flex; gap: 10px; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tillscript&show_icons=true&theme=radical" 
-       style="height: 180px; width: 400px; object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tillscript&layout=compact&theme=radical&card_width=400" 
-       style="height: 180px; width: 400px; object-fit: cover;"/>
-</div>
 
 
 
